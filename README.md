@@ -1,5 +1,5 @@
 Hi, I’m @Flamekeeper700
-I'm mainly working on a game called monster hunter, A top-down shooter slowly becoming a rougelike
+I did scratch for the longest time, but I've then switched to primarily doing java for school and robotics, along with trying to branch out and do java more in general :P
 
 <!---
 Flamekeeper700/Flamekeeper700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
