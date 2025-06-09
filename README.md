@@ -1,5 +1,6 @@
 Hi, I’m @Flamekeeper700
-I did scratch for the longest time, but I've then switched to primarily doing java for school and robotics, along with trying to branch out and do java more in general :P
+I did scratch for a while, but I've switched to primarily java! I write code for personal projects and robotics! :D 
+
 
 <!---
 Flamekeeper700/Flamekeeper700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
