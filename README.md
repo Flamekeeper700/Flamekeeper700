@@ -1,6 +1,6 @@
 Hi, I’m @Flamekeeper700
-I did scratch for a while, but I've switched to primarily java! I write code for personal projects and robotics! :D 
-
+Lead programer f(x) robotics 2025-cur
+Started FRCodeBlocks
 
 <!---
 Flamekeeper700/Flamekeeper700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
