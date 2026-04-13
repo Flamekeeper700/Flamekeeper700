@@ -1,5 +1,5 @@
 Hi, I’m @Flamekeeper700
--Lead programer f(x) robotics 2025 to current
+-Lead programer f(x) robotics '25 - '26
 
 <!---
 Flamekeeper700/Flamekeeper700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
